@@ -1,5 +1,5 @@
 # Flask Example App using Twitter Authentication to Login Users.
-## By (Abhishek Biswal)[http://abhishekbiswal.com]
+## By [Abhishek Biswal](http://abhishekbiswal.com)
 
 ### Required Packages
 * Flask ( ofcourse )
@@ -7,4 +7,4 @@
 
 Install Flask-OAuth using this command:
 
-'''pip install flask-oauth'''
+    pip install flask-oauth
